@@ -1,0 +1,4 @@
+ICC_venv/
+*__pycache__/
+ICC/assets/
+test.py
