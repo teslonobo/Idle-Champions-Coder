@@ -44,7 +44,7 @@ And more, check requirements.txt for a full list.
 ### Install
 
 ~~~
-git clone https://github.com/teslonobo/ICC.git
+git clone https://github.com/teslonobo/Idle-Champions-Coder.git
 ~~~
 
 Once you create a virtual environment, and activate it:
